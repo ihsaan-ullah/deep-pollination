@@ -6,7 +6,7 @@ This repository is the main repository for the Deep Pollination project.
 
 <br><br>
 
-### Codalab Challaneges
+## Codalab Challaneges
 There are 3 codalab challenges in the Deep Pollination project:
 1.  [Challenge 1](https://competitions.codalab.org/competitions/28635)
 2.  [Challenge 2](https://competitions.codalab.org/competitions/28996)
@@ -15,7 +15,7 @@ There are 3 codalab challenges in the Deep Pollination project:
 
 <br><br>
 
-### Credits 
+## Credits 
 Team Ecologists have enabled the creation of the ***Deep-Pollination*** challenge:
 - [Ihsan Ullah](https://github.com/ihsanullah2131)
 - [Mohammed Lansari](https://github.com/mlansar)
@@ -25,7 +25,8 @@ Team Ecologists have enabled the creation of the ***Deep-Pollination*** challeng
 - Eric Santiago
 
 
+<br><br>
 
-### Contact: 
+## Contact: 
 ihsan.ullah@universite-paris-saclay.fr
 
