@@ -3,6 +3,17 @@ This repository is the main repository for the Deep Pollination project.
 ![Meta-Album cover image](deep-cover.png)
 
 
+<br><br>
+
+## Introductions
+
+<br><br>
+
+## Data
+
+<br><br>
+
+## Data
 
 <br><br>
 
@@ -15,7 +26,19 @@ There are 3 codalab challenges in the Deep Pollination project:
 
 <br><br>
 
-## Credits 
+## References and credits:
+- The competition protocol was designed by [Professor Isabelle Guyon](https://guyon.chalearn.org/).
+- [Labex Digicosme](https://digicosme.cnrs.fr/) for partially funding the project.
+- The starting kit was adapted from an Jupyper notebook designed by Balazs Kegl.
+- Michael Vaccaro (for providing baseline model)
+- [MUSÉUM NATIONAL D’HISTOIRE NATURELLE](https://www.mnhn.fr/)
+- [SPIPOLL](https://www.spipoll.org/)
+- [Université Paris Saclay](https://www.universite-paris-saclay.fr/)
+- [ChaLearn](http://www.chalearn.org/)
+
+<br><br>
+
+## Team 
 Team Ecologists have enabled the creation of the ***Deep-Pollination*** challenge:
 - [Ihsan Ullah](https://github.com/ihsanullah2131)
 - [Mohammed Lansari](https://github.com/mlansar)
@@ -28,5 +51,6 @@ Team Ecologists have enabled the creation of the ***Deep-Pollination*** challeng
 <br><br>
 
 ## Contact: 
-ihsan.ullah@universite-paris-saclay.fr
+Team Ecologists (ecologists@chalearn.org)  
+Ihsan Ullah (ihsan.ullah@universite-paris-saclay.fr)
 
