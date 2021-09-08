@@ -13,7 +13,7 @@ Monitoring the population of pollinating insects has traditionally been done man
 
 ## Introductory Video
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=T8ALa9phYGY&feature=youtu.be)
+[![Watch the video](deep-cover.png)](https://www.youtube.com/watch?v=T8ALa9phYGY&feature=youtu.be)
 
 
 <br><br>
