@@ -12,11 +12,10 @@ Monitoring the population of pollinating insects has traditionally been done man
 <br><br>
 
 ## Introductory Video
-
-[![Watch the video](deep-cover.png)](https://www.youtube.com/watch?v=T8ALa9phYGY&feature=youtu.be)
-
+https://www.youtube.com/watch?v=T8ALa9phYGY&feature=youtu.be
 
 <br><br>
+
 
 ## Data
 The data is provided by MUSÉUM NATIONAL D’HISTOIRE NATURELLE. The data set contains 5 classes where each class refers to a type of insect:
