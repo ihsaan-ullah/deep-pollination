@@ -5,17 +5,28 @@ This repository is the main repository for the Deep Pollination project.
 
 <br><br>
 
-## Introductions
+## Introduction
+Insects, specially pollinating insects have a great role in the biodiversity in the nutrient cycling and the functioning of ecosystems. One of the the main threats to our ecosystem is the continuous decline in the population of various pollinating insects. About 75% of the plant species require insect pollinators and of which, bees are the primary pollinators. Other major pollinators are pollen wasps, ants, butterflies, moths and flies. Pollination is a ecosystem process that is essential to support the production of a wide range of crops and to sustain some essential food-chains in the ecosystem. This process is increasingly under threat, as a consequence of the loss of habitats and populations of these pollinators by increasing use of pesti- cides and insecticides. Directly impacted are the pollinator-dependent industries and agriculture as a whole.  
+Monitoring the population of pollinating insects has traditionally been done manually. Machine learning and in particular, deep learning techniques offer new possibilities to do this task with more speed, accuracy and efficiently. Therefore, image recognition techniques to spot pollen carrying insects is of particular interest. A first step to establish such a classification task is to actually recognize the type of insect in the image.
 
 <br><br>
+
+## Introductory Video
+https://www.youtube.com/watch?v=T8ALa9phYGY&feature=youtu.be
 
 ## Data
+The data is provided by MUSÉUM NATIONAL D’HISTOIRE NATURELLE. The data set contains 5 classes where each class refers to a type of insect:
+-   bee 
+-   wasp
+-   butterfly 
+-   other insect
+-   other(non-insect)
+There are more than 210,000 images provided for this competition.
+![Class images](classes.png)
 
 <br><br>
 
-## Data
 
-<br><br>
 
 ## Codalab Challaneges
 There are 3 codalab challenges in the Deep Pollination project:
