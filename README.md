@@ -65,15 +65,17 @@ This project was supersied by [Professor Isabelle Guyon](https://guyon.chalearn.
 
 ## References and credits:
 - The competition protocol was designed by [Professor Isabelle Guyon](https://guyon.chalearn.org/)
-- [Labex Digicosme](https://digicosme.cnrs.fr/) partially funded the project
-- The starting kit was adapted from an Jupyper notebook designed by Balazs Kegl
-- Michael Vaccaro provided the baseline model (AutoDL)
-- [MUSÉUM NATIONAL D’HISTOIRE NATURELLE](https://www.mnhn.fr/) and [SPIPOLL](https://www.spipoll.org/) provided the data
-- [Université Paris Saclay](https://www.universite-paris-saclay.fr/) organized this project
-- [ChaLearn](http://www.chalearn.org/) supported the project
-- [Codalab](https://competitions.codalab.org/) hosted the competitions
+
+-   The starting kit was adapted from an Jupyper notebook designed by Balazs Kegl
+-   Michael Vaccaro provided the baseline model (AutoDL)
+-   [MUSÉUM NATIONAL D’HISTOIRE NATURELLE](https://www.mnhn.fr/) and [SPIPOLL](https://www.spipoll.org/) provided the data
+-   [Université Paris Saclay](https://www.universite-paris-saclay.fr/) organized this project
+-   [ChaLearn](http://www.chalearn.org/) supported the project
+-   [Codalab](https://competitions.codalab.org/) hosted the competitions
+-   This project was partially funded by [Labex Digicosme](https://digicosme.cnrs.fr/) (project ANR11LABEX0045DIGICOSME) operated by ANR as part of the program   Investissement d’Avenir Idex ParisSaclay (ANR11IDEX000302)
 
 <br><br>
+
 
 
 
