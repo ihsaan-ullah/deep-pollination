@@ -1,15 +1,17 @@
-# Deep Pollination
-This repository is the main repository for the Deep Pollination project.
+# Deep-Pollination
+This repository is the main repository for the **Deep-Pollination** project.
 ![Meta-Album cover image](deep-cover.png)
 
 
 <br><br>
 
 ## Introduction
-Insects, specially pollinating insects have a great role in the biodiversity in the nutrient cycling and the functioning of ecosystems. One of the the main threats to our ecosystem is the continuous decline in the population of various pollinating insects. About 75% of the plant species require insect pollinators and of which, bees are the primary pollinators. Other major pollinators are pollen wasps, ants, butterflies, moths and flies. Pollination is a ecosystem process that is essential to support the production of a wide range of crops and to sustain some essential food-chains in the ecosystem. This process is increasingly under threat, as a consequence of the loss of habitats and populations of these pollinators by increasing use of pesti- cides and insecticides. Directly impacted are the pollinator-dependent industries and agriculture as a whole.  
-Monitoring the population of pollinating insects has traditionally been done manually. Machine learning and in particular, deep learning techniques offer new possibilities to do this task with more speed, accuracy and efficiently. Therefore, image recognition techniques to spot pollen carrying insects is of particular interest. A first step to establish such a classification task is to actually recognize the type of insect in the image.
+Insects are very important for biodiversity, food chains, and pollination. It is of great importance to recognize insects, their habitats and to secure their natural environment. Machine learning, especially deep learning techniques can be used to recognize and classify various insects. We introduce **Deep-Pollination**, a series of three machine learning challenges organized on Codalab for insects classification. A preprocessed version of the insects dataset is used for these challenges which consists of five classes and more than 200,000 images. 
 
 <br><br>
+
+
+
 
 ## Introductory Video
 https://www.youtube.com/watch?v=T8ALa9phYGY&feature=youtu.be
@@ -33,7 +35,7 @@ There are more than 210,000 images provided for this competition.
 
 
 ## Codalab Challaneges
-There are 3 codalab challenges in the Deep Pollination project:
+There are 3 codalab challenges in the Deep-Pollination project:
 1.  [Challenge 1](https://competitions.codalab.org/competitions/28635)
 2.  [Challenge 2](https://competitions.codalab.org/competitions/28996)
 3.  [Challenge 3](https://competitions.codalab.org/competitions/29425)
@@ -62,6 +64,7 @@ Team Ecologists have enabled the creation of the ***Deep-Pollination*** challeng
 - [MUSÉUM NATIONAL D’HISTOIRE NATURELLE](https://www.mnhn.fr/) and [SPIPOLL](https://www.spipoll.org/) provided the data
 - [Université Paris Saclay](https://www.universite-paris-saclay.fr/) organized this project
 - [ChaLearn](http://www.chalearn.org/) supported the project
+- [Codalab](https://competitions.codalab.org/) hosted the competitions
 
 <br><br>
 
