@@ -56,6 +56,13 @@ Team Ecologists have enabled the creation of the ***Deep-Pollination*** challeng
 
 <br><br>
 
+
+## Supervisor: 
+This project was supersied by [Professor Isabelle Guyon](https://guyon.chalearn.org/).
+
+
+<br><br>
+
 ## References and credits:
 - The competition protocol was designed by [Professor Isabelle Guyon](https://guyon.chalearn.org/)
 - [Labex Digicosme](https://digicosme.cnrs.fr/) partially funded the project
