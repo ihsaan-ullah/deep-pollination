@@ -67,7 +67,7 @@ This project was supersied by [Professor Isabelle Guyon](https://guyon.chalearn.
 - The competition protocol was designed by [Professor Isabelle Guyon](https://guyon.chalearn.org/)
 
 -   The starting kit was adapted from an Jupyper notebook designed by Balazs Kegl
--   Michael Vaccaro provided the baseline model (AutoDL)
+-   [AutoDL](https://competitions.codalab.org/competitions/27082) baseline model was provided btMichael Vaccaro
 -   [MUSÉUM NATIONAL D’HISTOIRE NATURELLE](https://www.mnhn.fr/) and [SPIPOLL](https://www.spipoll.org/) provided the data
 -   [Université Paris Saclay](https://www.universite-paris-saclay.fr/) organized this project
 -   [ChaLearn](http://www.chalearn.org/) supported the project
