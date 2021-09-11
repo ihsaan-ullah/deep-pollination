@@ -23,7 +23,8 @@ The data is provided by MUSÉUM NATIONAL D’HISTOIRE NATURELLE. The data set co
 -   wasp
 -   butterfly 
 -   other insect
--   other(non-insect)
+-   other(non-insect)  
+
 There are more than 210,000 images provided for this competition.
 ![Class images](classes.png)
 
@@ -42,13 +43,12 @@ There are 3 codalab challenges in the Deep Pollination project:
 
 ## References and credits:
 - The competition protocol was designed by [Professor Isabelle Guyon](https://guyon.chalearn.org/)
-- [Labex Digicosme](https://digicosme.cnrs.fr/) for partially funding the project
+- [Labex Digicosme](https://digicosme.cnrs.fr/) partially funded the project
 - The starting kit was adapted from an Jupyper notebook designed by Balazs Kegl
-- Michael Vaccaro (for providing baseline model)
-- [MUSÉUM NATIONAL D’HISTOIRE NATURELLE](https://www.mnhn.fr/)
-- [SPIPOLL](https://www.spipoll.org/)
-- [Université Paris Saclay](https://www.universite-paris-saclay.fr/)
-- [ChaLearn](http://www.chalearn.org/)
+- Michael Vaccaro provided the baseline model (AutoDL)
+- [MUSÉUM NATIONAL D’HISTOIRE NATURELLE](https://www.mnhn.fr/) and [SPIPOLL](https://www.spipoll.org/) provided the data
+- [Université Paris Saclay](https://www.universite-paris-saclay.fr/) organized this project
+- [ChaLearn](http://www.chalearn.org/) supported the project
 
 <br><br>
 
