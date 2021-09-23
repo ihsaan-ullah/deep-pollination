@@ -18,6 +18,11 @@ https://www.youtube.com/watch?v=T8ALa9phYGY&feature=youtu.be
 
 <br><br>
 
+## Poster: 
+The poster of this project can be found [here](poster.pdf).
+
+<br><br>
+
 
 ## Data
 The data is provided by MUSÉUM NATIONAL D’HISTOIRE NATURELLE. The data set contains 5 classes where each class refers to a type of insect:
@@ -75,10 +80,6 @@ This project was supersied by [Professor Isabelle Guyon](https://guyon.chalearn.
 -   This project was partially funded by [Labex Digicosme](https://digicosme.cnrs.fr/) (project ANR11LABEX0045DIGICOSME) operated by ANR as part of the program   Investissement d’Avenir Idex ParisSaclay (ANR11IDEX000302)
 
 <br><br>
-
-
-## Poster: 
-The poster of this project can be found [here](poster.pdf).
 
 
 
