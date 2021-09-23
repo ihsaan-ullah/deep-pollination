@@ -77,6 +77,9 @@ This project was supersied by [Professor Isabelle Guyon](https://guyon.chalearn.
 <br><br>
 
 
+## Poster: 
+The poster of this project can be found [here](poster.pdf).
+
 
 
 ## Contact: 
