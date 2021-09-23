@@ -1,6 +1,6 @@
 # Deep-Pollination
 This repository is the main repository for the **Deep-Pollination** project.
-![Meta-Album cover image](deep-cover.png)
+![Meta-Album cover image](cover.png)
 
 
 <br><br>
