@@ -6,7 +6,7 @@ This repository is the main repository for the **Deep-Pollination** project.
 <br><br>
 
 ## Introduction
-Insects are very important for biodiversity, food chains, and pollination. It is of great importance to recognize insects, their habitats and to secure their natural environment. Machine learning, especially deep learning techniques can be used to recognize and classify various insects. We introduce **Deep-Pollination**, a series of three machine learning challenges organized on Codalab for insects classification. A preprocessed version of the insects dataset is used for these challenges which consists of five classes and more than 200,000 images. 
+Insects are very important for biodiversity, food chains, and pollination. It is of great importance to recognize insects, their habitats and to secure their natural environment. Machine learning, especially deep learning techniques can be used to recognize and classify various insects. We introduce **Deep-Pollination**, a series of three machine learning challenges organized on Codalab for insects classification. A preprocessed version of the insects dataset is used for these challenges which consists of five classes and more than 200,000 images. This work has been accepted as a poster in Junior Data Science and Engineering Conference (JDSE) 2021 organized by Labex Digicosme, Université Paris-Saclay.
 
 <br><br>
 
@@ -19,7 +19,12 @@ https://www.youtube.com/watch?v=T8ALa9phYGY&feature=youtu.be
 <br><br>
 
 ## Poster: 
-The poster of this project can be found [here](poster.pdf).
+The accepted poster in JDSE 2021 of this project can be found [here](poster.pdf).
+
+<br><br>
+
+## Paper: 
+The accepted paper in JDSE 2021 of this project can be found [here](JDSE_2021_Deep_Pollination.pdf).
 
 <br><br>
 
@@ -72,7 +77,7 @@ This project was supersied by [Professor Isabelle Guyon](https://guyon.chalearn.
 - The competition protocol was designed by [Professor Isabelle Guyon](https://guyon.chalearn.org/)
 
 -   The starting kit was adapted from an Jupyper notebook designed by Balazs Kegl
--   [AutoDL](https://competitions.codalab.org/competitions/27082) baseline model was provided btMichael Vaccaro
+-   [AutoDL](https://competitions.codalab.org/competitions/27082) baseline model was provided by Michael Vaccaro
 -   [MUSÉUM NATIONAL D’HISTOIRE NATURELLE](https://www.mnhn.fr/) and [SPIPOLL](https://www.spipoll.org/) provided the data
 -   [Université Paris Saclay](https://www.universite-paris-saclay.fr/) organized this project
 -   [ChaLearn](http://www.chalearn.org/) supported the project
