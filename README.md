@@ -89,6 +89,5 @@ This project was supersied by [Professor Isabelle Guyon](https://guyon.chalearn.
 
 
 ## Contact: 
-Team Ecologists (ecologists@chalearn.org)  
-Ihsan Ullah (ihsan.ullah@universite-paris-saclay.fr)
+Ihsan Ullah (ihsan2131@gmail.com)
 
